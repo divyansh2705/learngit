@@ -1,4 +1,4 @@
-l= int(input("Enter length"))
-b= int(input("Enter breath"))
+l= 40
+b= 60
 area = l*b
 print(area)
